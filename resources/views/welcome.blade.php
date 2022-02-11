@@ -60,7 +60,7 @@
             </div>
         </div>
     </section>
-    {{-- ------banner section------ --}}
+    {{-- ------banner section-------- --}}
     <section class="main-banner">
         <div class="banner-title">
             <h1>The Rwanda Build Program (RWbuild)</h1>
@@ -75,7 +75,7 @@
         </div>
     </section>
 
-    {{-- -----about us section----- --}}
+    {{-- --------about us section-------- --}}
 
     <section class="about-us">
         <div class="about_image">
